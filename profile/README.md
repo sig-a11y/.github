@@ -29,6 +29,8 @@ Sig A11y 是关注(游戏)无障碍的开源组织。
 
 ## 项目简介
 
+- 游戏无障碍的技术备忘及想法: [Game Accessibility Memo](https://sig-a11y.github.io/memo/)
+
 TODO...
 
 
